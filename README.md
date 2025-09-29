@@ -1,10 +1,12 @@
-## Hi there 👋
+# Hi, I'm Noman 👋
+A crypto trader, passionate about sustainable tech.
 
-<!--
+<![Visitors](https://profile-counter.glitch.me/anfoysal/count.svg)!--
 **anfoysal/anfoysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+- 📧 Email: alfoyshal2016@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/anfoysal
+- 🌐 Portfolio: https://debank.com/profile/0x590c673a9803748bf412ccea5fedf71aeda3eeb5
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
